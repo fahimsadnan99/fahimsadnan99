@@ -18,7 +18,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://i.ibb.co/fxBs83W/iconfinder-71-github-4202098.png" />](https://github.com/fahimsadnan99)
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://i.ibb.co/BZhDq0t/iconfinder-Colored-Facebook3-svg-5365678.png" />](https://www.linkedin.com/in/fahim-sadnan-8548a1191/https://www.linkedin.com/in/fahim-sadnan-8548a1191/)
+[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://i.ibb.co/BZhDq0t/iconfinder-Colored-Facebook3-svg-5365678.png" />](https://www.facebook.com/fahim.sadnan2)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://i.ibb.co/CsnqNjZ/iconfinder-square-linkedin-317725.png" />](https://www.linkedin.com/in/fahim-sadnan-8548a1191/https://www.linkedin.com/in/fahim-sadnan-8548a1191/)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://i.ibb.co/1MbnZBv/iconfinder-Instagram-1298747.png" />](https://www.instagram.com/fahim__sadnan/)
 
