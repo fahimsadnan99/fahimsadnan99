@@ -26,6 +26,6 @@ Skills: Html5,Css3,Bootstrap4,5,Tailwin Css, material Ui, Ant Design, javascript
 
 ![GitHub metrics](https://metrics.lecoq.io/fahimsadnan99&theme=dark)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=fahimsadnan99&theme=dark)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=fahimsadnan99)  
 
 ![Profile views](https://gpvc.arturio.dev/fahimsadnan99)  
