@@ -2,40 +2,30 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
-<br/>
+### Hi there 👋, Fahim Sadnan
+#### Full Stack Web Developer
+![Full Stack Web Developer](https://scontent.fdac144-1.fna.fbcdn.net/v/t39.30808-6/325948329_711526567147015_752974142690587709_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGD4xZtnIuuDmi0gMy0QCga7m_T76WHWBzub9PvpYdYHCBApkTFGqnIZKlOVu-c-QIfWJLDiqKP9aR1LqEaBDm6&_nc_ohc=842Y18TNowIAX-lha1t&_nc_ht=scontent.fdac144-1.fna&oh=00_AfANGQVAFg7MLiXv7Z_1ds9hbiiar6i6eEolgr_inuQJiw&oe=63E3A109)
 
-##  I'm a MERN stack Developer
+I am Fahim Sadnan. I live in Feni.In 2022 I completed my graduation from computer science and engineering department. I am a full stack web developer. I worked at Kalpass Innovations Pvt Ltd for six months.Apart from the company or the company I have worked on many projects.i am an energetic, ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with.
 
- - 🔭  I love Programming.
- - 🌱  JavaScript is my Favorite programming Language. 
- - 👯  I started programming with C/C++. 
- - 🥅  Everyday I try to solve some problem by using javaScipt.  
- - ⚡  Now a days React.js, Next.Js and Node.js on of my favorite JavaScript technology.
+Skills: Html5,Css3,Bootstrap4,5,Tailwin Css, material Ui, Ant Design, javascript,Reactjs, Redux, Redux toolkit, RTk,React Query,NextJs,Nodejs,ExpressJs,Mongodb,Mongoose
 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fahimsadnan99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/fahim.sadnan2/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://fahimsportfolio99.netlify.app/)  
 
-### Connect with me:
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://i.ibb.co/fxBs83W/iconfinder-71-github-4202098.png" />](https://github.com/fahimsadnan99)
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://i.ibb.co/BZhDq0t/iconfinder-Colored-Facebook3-svg-5365678.png" />](https://www.facebook.com/fahim.sadnan2)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://i.ibb.co/CsnqNjZ/iconfinder-square-linkedin-317725.png" />](https://www.linkedin.com/in/fahim-sadnan-8548a1191/https://www.linkedin.com/in/fahim-sadnan-8548a1191/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://i.ibb.co/1MbnZBv/iconfinder-Instagram-1298747.png" />](https://www.instagram.com/fahim__sadnan/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fahimsadnan99)](https://github.com/ryo-ma/github-profile-trophy&theme=dark)
 
-<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahimsadnan99)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 
-### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]("")
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]("")
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]("")
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]("")
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]("")
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]("")
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />]("")
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]("")
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]("")
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]("")
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]("")
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]("")
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]("")
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fahimsadnan99&show_icons=true&count_private=true&theme=dark)  
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fahimsadnan99&theme=dark)  
+
+![GitHub metrics](https://metrics.lecoq.io/fahimsadnan99&theme=dark)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=fahimsadnan99&theme=dark)  
+
+![Profile views](https://gpvc.arturio.dev/fahimsadnan99&theme=dark)  
