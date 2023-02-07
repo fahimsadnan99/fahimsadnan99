@@ -22,10 +22,10 @@ Skills: Html5,Css3,Bootstrap4,5,Tailwin Css, material Ui, Ant Design, javascript
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fahimsadnan99&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fahimsadnan99)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fahimsadnan99&theme=algolia)  
 
 ![GitHub metrics](https://metrics.lecoq.io/fahimsadnan99&theme=algolia)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=fahimsadnan99&theme=dark)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=fahimsadnan99)  
 
-![Profile views](https://gpvc.arturio.dev/fahimsadnan99&theme=algolia)  
+![Profile views](https://gpvc.arturio.dev/fahimsadnan99)  
